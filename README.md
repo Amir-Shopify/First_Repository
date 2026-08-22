@@ -2,4 +2,4 @@
 This is my first Repository for Practice on Github.<br>
 Today is my 2nd day.
 <br>
-Author: Amir Sabir
+Author: Abdullah Amir
